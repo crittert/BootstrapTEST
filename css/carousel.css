@@ -4,7 +4,7 @@
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: #ffffff;
 }
 
 
@@ -51,6 +51,7 @@ body {
 .carousel .item {
   height: 500px;
   background-color: #777;
+  color: rgba(255, 255, 255, 0.43);
 }
 .carousel-inner > .item > img {
   position: absolute;
