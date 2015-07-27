@@ -6871,15 +6871,16 @@ button.close {
 
 .carousel-caption {
 	position:absolute;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 	right:15%;
 	bottom:20px;
 	left:15%;
 	z-index:10;
 	padding-top:20px;
 	padding-bottom:20px;
-	color:#fff;
+	color:#7A1F00;
 	text-align:center;
-	text-shadow:0 1px 2px rgba(0,0,0,.6);
+/* 	text-shadow:0 1px 2px rgba(0,0,0,.6); */
 }
 
 .carousel-caption .btn {
