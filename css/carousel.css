@@ -111,6 +111,14 @@ body {
   margin-right: 10px;
   margin-left: 10px;
 }
+.team-inner {
+	position: relative;
+	left: 0;
+	min-width: 100%;
+/* 	position:relative; */
+/* 	width:100%; */
+	overflow:hidden;
+}
 
 
 /* Featurettes
@@ -155,7 +163,7 @@ body {
     margin-bottom: 20px;
     font-size: 21px;
     line-height: 1.4;
-    color: #7A1F00;
+    color: #7b2000;
   }
 
   .featurette-heading {
